@@ -93,9 +93,11 @@ int main() {
 
 
 ## OUTPUT 
-![image](https://github.com/user-attachments/assets/b5394180-e600-48ef-bc81-abcf092cda30)
+![WhatsApp Image 2025-04-10 at 11 49 51_a5d9fb88](https://github.com/user-attachments/assets/f2e375fb-c0fd-4d5d-93fa-d65839fad75a)
 
-![image](https://github.com/user-attachments/assets/6bff72c1-22ab-4c2e-aa37-7b07d8e48e82)
+
+![WhatsApp Image 2025-04-10 at 11 49 52_54fd00da](https://github.com/user-attachments/assets/03ad6c6d-de10-4bb3-9ba2-befd4e07314c)
+
 
 
 ## RESULT
